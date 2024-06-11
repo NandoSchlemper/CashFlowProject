@@ -1,1 +1,0 @@
-# vao ficar armazenadas as rotas para criacao dos usuarios e administracao deles atraves do ADM

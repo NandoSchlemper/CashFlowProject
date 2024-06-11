@@ -1,6 +1,5 @@
 # CashFlowProject
-Creating a Cash Flow system with Flask, Docker and integrate Machine Learning with real-time classification for cost prediction.
-
+Creating a Cash Flow system with Rust, fon
 ## Concept
 Create 5 roles, Administrator, Operational, Financial, HR (Human Resources) and Warehouse
 
